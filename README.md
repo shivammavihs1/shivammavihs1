@@ -1,5 +1,5 @@
 # Hello 👋 
-
+![](https://komarev.com/ghpvc/?username=shivammavihs1&label=PROFILE+HITS)
 <hr>
 
 ```python
