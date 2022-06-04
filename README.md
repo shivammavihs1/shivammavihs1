@@ -37,6 +37,7 @@ me.say_hi()
 
 ![](https://img.shields.io/badge/Code-C%2B%2B-red)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/status-single-blue)
 
 - Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 
