@@ -1,5 +1,5 @@
 # Hello 👋 
-![](https://komarev.com/ghpvc/?username=shivammavihs1&label=PROFILE+HITS)
+![](https://komarev.com/ghpvc/?username=shivammavihs1&label=This+profile+hits+to)
 <hr>
 
 ```python
@@ -35,5 +35,6 @@ me.say_hi()
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=Jupyter-code&logoColor=white&color=6aa6f8)
 
+- Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 
 ![](https://img.shields.io/github/stars/ipshitag?affiliations=OWNER&style=social) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ipshitag.ipshitag)
