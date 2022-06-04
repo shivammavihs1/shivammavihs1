@@ -1,7 +1,6 @@
 # <h1 align="center">Hi there 👋, I'm Shivam Kumar.</h1>
 </br>
-# <h3 align="center">A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product.</h3>
-</br>
+<h3 align="center">A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product.</h3>
 ![](https://komarev.com/ghpvc/?username=shivammavihs1&label=This+profile+hits+to)
 <hr>
 
