@@ -43,5 +43,3 @@ me.say_hi()
 ![](https://img.shields.io/badge/status-single-blue)
 
 - Thanks for visiting my GitHub profile, it's great to meet you here! 😊
-
-![](https://img.shields.io/github/stars/ipshitag?affiliations=OWNER&style=social) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ipshitag.ipshitag)
