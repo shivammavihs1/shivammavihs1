@@ -40,8 +40,7 @@ me.say_hi()
 
 <hr>
 
-## 🔧 Technologies & Tools
-# Github Activity📊:
+# Github Activity📊<🔧 Technologies & Tools>:
 
 <table>
   <tr>
@@ -50,7 +49,7 @@ me.say_hi()
    </tr> 
    <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=shivammavihs1&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=shivammavihs1&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
+     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=shivammavihs&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
   </td>
   </tr>
 </table>
