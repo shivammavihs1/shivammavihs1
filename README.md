@@ -30,10 +30,23 @@ me.say_hi()
 
 - 🔭 I’m currently working on [an chrome extension development project](https://github.com/shivammavihs1/green-earth)
 - 🌱 I’m currently learning [Flask](https://github.com/shivammavihs1/webApp-using-flask), [Documentation](https://flask.palletsprojects.com/en/2.1.x/), [Framework](https://www.fullstackpython.com/flask.html) and open-source.
+- 👯 I’m looking to collaborate on exciting Projects and Hackathons
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shivamkumar0611/)
 - And, my favourite emoji is :shipit:
-- Pronouns: He/Him
 - Ask me about C++ and DSA
+- Pronouns: He/Him
+- Today's learning - Never ever break someone's trust
+
+<hr>
+
+<h3 align="center">Visitor Count</h3>
+<a align="center" href="https://profile-counter.glitch.me/{shivammavihs1}/count.svg">
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{Apurva-tech}/count.svg)  
+  
+</a>
+
+<hr>
 
 ## 🔧 Technologies & Tools
 
