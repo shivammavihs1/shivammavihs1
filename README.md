@@ -24,6 +24,9 @@ class Software Developer:
 me = Software Developer()
 me.say_hi()
 ```
+<p align="center">
+  <img src="https://github.com/Apurva-tech/Apurva-tech/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 - 🔭 I’m currently working on [an chrome extension development project](https://github.com/shivammavihs1/green-earth)
 - 🌱 I’m currently learning [Flask](https://github.com/shivammavihs1/webApp-using-flask), [Documentation](https://flask.palletsprojects.com/en/2.1.x/), [Framework](https://www.fullstackpython.com/flask.html) and open-source.
