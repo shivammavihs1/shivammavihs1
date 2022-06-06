@@ -65,7 +65,7 @@ me.say_hi()
   </tr>
 </table>
 
-
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivammavihs1&theme=algolia&count_private=false&show_icons=true" alt="shivammavihs1" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivammavihs1&langs_count=10&layout=compact&theme=algolia" alt="shivammavihs1" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivammavihs1&theme=algolia" alt="shivammavihs1" /></p>
@@ -73,5 +73,6 @@ me.say_hi()
 ![](https://img.shields.io/badge/Code-C%2B%2B-red)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/status-single-blue)
+-->
 
-- Thanks for visiting my GitHub profile, it's great to meet you here! 😊
+- Thanks for visiting my GitHub profile, it's great pleasure to meet you here! 😊
