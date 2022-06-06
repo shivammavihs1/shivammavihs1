@@ -24,6 +24,7 @@ class Software Developer:
 me = Software Developer()
 me.say_hi()
 ```
+<hr>
 <p align="center">
   <img src="https://raw.githubusercontent.com/shivammavihs1/shivammavihs1/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
@@ -39,16 +40,32 @@ me.say_hi()
 
 <hr>
 
-<h3 align="center">Visitor Count</h3>
-<a align="center" href="https://profile-counter.glitch.me/{shivammavihs1}/count.svg">
-  
-  ![VisitorCount](https://profile-counter.glitch.me/{Apurva-tech}/count.svg)  
-  
-</a>
-
-<hr>
-
 ## 🔧 Technologies & Tools
+# Github Activity📊:
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=shivammavihs1&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivammavihs1&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=shivammavihs1&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=shivammavihs1&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
+  </td>
+  </tr>
+</table>
+
+# Productivity Stats📈:
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivammavihs1&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=shivammavihs1&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td>
+  </tr>
+</table>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivammavihs1&theme=algolia&count_private=false&show_icons=true" alt="shivammavihs1" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivammavihs1&langs_count=10&layout=compact&theme=algolia" alt="shivammavihs1" /></p>
