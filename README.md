@@ -24,6 +24,9 @@ class Software Developer:
 me = Software Developer()
 me.say_hi()
 ```
+<p align="center">
+  <img src="https://github.com/shivammavihs1/shivammavihs1/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shivammavihs1/shivammavihs1/output/github-contribution-grid-snake.svg" alt="snake"></center>
