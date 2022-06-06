@@ -33,14 +33,14 @@ me.say_hi()
 - 🌱 I’m currently learning [Flask](https://github.com/shivammavihs1/webApp-using-flask), [Documentation](https://flask.palletsprojects.com/en/2.1.x/), [Framework](https://www.fullstackpython.com/flask.html) and open-source.
 - 👯 I’m looking to collaborate on exciting Projects and Hackathons
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shivamkumar0611/)
-- And, my favourite emoji is :shipit:
-- Ask me about C++ and DSA
-- Pronouns: He/Him
+- And, my favourite emoji is :smiling_face_with_tear:
+- In meanwhile I understand and implement the fundamentals of computer engineering and learning web development - React, web3 and much more xD
 - Today's learning - Never ever break someone's trust
+- Pronouns: He/Him
 
 <hr>
 
-# Github Activity📊<🔧 Technologies & Tools>:
+# Github <🔧 Technologies & Tools/>: 📊
 
 <table>
   <tr>
