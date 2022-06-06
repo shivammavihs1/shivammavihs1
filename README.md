@@ -25,10 +25,10 @@ me = Software Developer()
 me.say_hi()
 ```
 [![Generate Snake](https://github.com/shivammavihs1/shivammavihs1/actions/workflows/snake.yml/badge.svg)](https://github.com/shivammavihs1/shivammavihs1/actions/workflows/snake.yml)
-
+ 
 
 <p align="center">
-  <img src="(https://github.com/shivammavihs1/shivammavihs1/blob/output/github-contribution-grid-snake.svg)" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/shivammavihs1/shivammavihs1/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 - 🔭 I’m currently working on [an chrome extension development project](https://github.com/shivammavihs1/green-earth)
