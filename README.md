@@ -28,7 +28,7 @@ me.say_hi()
 
 
 <p align="center">
-  <img src="https://github.com/Apurva-tech/Apurva-tech/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="[https://github.com/Apurva-tech/Apurva-tech/raw/output/github-contribution-grid-snake.svg](https://github.com/shivammavihs1/shivammavihs1/blob/output/github-contribution-grid-snake.svg)" alt="snake"></center>
 </p>
 
 - 🔭 I’m currently working on [an chrome extension development project](https://github.com/shivammavihs1/green-earth)
