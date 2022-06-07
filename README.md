@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=shivammavihs1&label=This+profile+hits+to)
-<h1 align="center">Hi there 👋, I'm Shivam Kumar.</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">, I'm Shivam Kumar.</h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="blue line"></center>
 </p>
@@ -84,8 +84,9 @@ me.say_hi()
 -->
 
 - Thanks for visiting my GitHub profile, it's great pleasure to meet you here! 😊 💌 
-  <style>.heart{color:#e25555;}</style>
+<style>.heart{color:#e25555;}</style>
 Made with <span class="heart">♥</span> in India
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="blue line"></center>
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="blue line"></center>
 </p>
