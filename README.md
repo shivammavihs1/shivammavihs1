@@ -91,8 +91,8 @@ me.say_hi()
 
 <h3 align="center">Made with ♥ in 🇮🇳🇳<img src=></h3>
 <p align="center">
-  https://media2.giphy.com/media/9Gnbm29r7ftUA/200.gif
-<img src="https://media2.giphy.com/media/9Gnbm29r7ftUA/200.gif" alt="blue line">
+<img src="https://media2.giphy.com/media/9Gnbm29r7ftUA/200.gif" width="100" alt="Indian Flag">
+  
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="blue line"></center>
 </p>
