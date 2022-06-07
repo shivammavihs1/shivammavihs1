@@ -1,12 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=shivammavihs1&label=This+profile+hits+to)
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="blue line"></center>
-</p>
-# <h1 align="center">Hi there 👋, I'm Shivam Kumar.</h1>
+<h1 align="center">Hi there 👋, I'm Shivam Kumar.</h1>
 </br>
 <h3 align="center">A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product.</h3>
 
-<hr>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="blue line"></center>
+</p>
 
 ```python
 # -*- coding: utf-8 -*-
@@ -27,7 +26,9 @@ class Software Developer:
 me = Software Developer()
 me.say_hi()
 ```
-<hr>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="blue line"></center>
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/shivammavihs1/shivammavihs1/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
@@ -41,7 +42,9 @@ me.say_hi()
 - Today's learning - Never ever break someone's trust
 - Pronouns: He/Him
 
-<hr>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="blue line"></center>
+</p>
 
 # Github <🔧 Technologies & Tools/>: 📊
 
@@ -79,3 +82,6 @@ me.say_hi()
 -->
 
 - Thanks for visiting my GitHub profile, it's great pleasure to meet you here! 😊
+- <p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="blue line"></center>
+</p>
