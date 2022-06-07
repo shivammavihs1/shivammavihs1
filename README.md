@@ -83,7 +83,9 @@ me.say_hi()
 ![](https://img.shields.io/badge/status-single-blue)
 -->
 
-- Thanks for visiting my GitHub profile, it's great pleasure to meet you here! 😊
-- <p align="center">
+- Thanks for visiting my GitHub profile, it's great pleasure to meet you here! 😊 💌 
+  <style>.heart{color:#e25555;}</style>
+Made with <span class="heart">♥</span> in India
+<p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="blue line"></center>
 </p>
