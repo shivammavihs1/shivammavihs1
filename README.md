@@ -62,6 +62,10 @@ me.say_hi()
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="blue line"></center>
+</p>
+
 # Productivity Stats📈:
 <table>
   <tr>
@@ -85,9 +89,10 @@ me.say_hi()
 
 - Thanks for visiting my GitHub profile, it's great pleasure to meet you here! 😊 💌 
 
-<h3 align="center">Made with ♥ in 🇮🇳🇳<img src="" width="50"></h3>
+<h3 align="center">Made with ♥ in 🇮🇳🇳<img src=></h3>
 <p align="center">
-  
+  https://media2.giphy.com/media/9Gnbm29r7ftUA/200.gif
+<img src="https://media2.giphy.com/media/9Gnbm29r7ftUA/200.gif" alt="blue line">
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="blue line"></center>
 </p>
