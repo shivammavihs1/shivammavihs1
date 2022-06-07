@@ -89,7 +89,7 @@ me.say_hi()
 
 - Thanks for visiting my GitHub profile, it's great pleasure to meet you here! 😊 💌 
 
-<h3 align="center">Made with ♥ in 🇮🇳🇳<img src=></h3>
+<h3 align="center">Made with ♥ in <img src="https://media2.giphy.com/media/9Gnbm29r7ftUA/200.gif" width="100" alt="Indian Flag">></h3>
 <p align="center">
 <img src="https://media2.giphy.com/media/9Gnbm29r7ftUA/200.gif" width="100" alt="Indian Flag">
   
