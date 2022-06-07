@@ -83,21 +83,11 @@ me.say_hi()
 ![](https://img.shields.io/badge/status-single-blue)
 -->
 
-<p align="center">
-  <img src="https://giphy.com/gifs/india-indian-taj-mahal-KTWNWEhMNSs2E0yUpz" alt="blue line"></center>
-</p>
+- Thanks for visiting my GitHub profile, it's great pleasure to meet you here! 😊 💌 
 
-<h3 align="center">Made with ♥ in<img src="https://giphy.com/gifs/india-indian-taj-mahal-KTWNWEhMNSs2E0yUpz" width="50"></h3>
+<h3 align="center">Made with ♥ in 🇮🇳<img src="" width="50"></h3>
 <p align="center">
   
-<iframe src="https://giphy.com/embed/KTWNWEhMNSs2E0yUpz" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/india-indian-taj-mahal-KTWNWEhMNSs2E0yUpz">via GIPHY</a></p>
-
-- Thanks for visiting my GitHub profile, it's great pleasure to meet you here! 😊 💌 
-<style>.heart{color:#e25555;}</style>
-Made with <span class="heart">♥</span> in India
-
-<div style="width:100%;height:0;padding-bottom:63%;position:relative;"><iframe src="https://giphy.com/embed/9Gnbm29r7ftUA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/india-9Gnbm29r7ftUA">via GIPHY</a></p>
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="blue line"></center>
 </p>
