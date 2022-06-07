@@ -1,4 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=shivammavihs1&label=This+profile+hits+to)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="blue line"></center>
+</p>
 # <h1 align="center">Hi there 👋, I'm Shivam Kumar.</h1>
 </br>
 <h3 align="center">A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product.</h3>
