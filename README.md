@@ -96,6 +96,8 @@ me.say_hi()
 <style>.heart{color:#e25555;}</style>
 Made with <span class="heart">♥</span> in India
 
+<div style="width:100%;height:0;padding-bottom:63%;position:relative;"><iframe src="https://giphy.com/embed/9Gnbm29r7ftUA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/india-9Gnbm29r7ftUA">via GIPHY</a></p>
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="blue line"></center>
 </p>
