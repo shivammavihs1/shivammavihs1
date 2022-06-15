@@ -33,7 +33,7 @@ me.say_hi()
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="blue line"></center>
 </p>
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Walter+Turncoat&color=%230366DE&size=25&duration=4000&center=true&vCenter=true&width=550&lines=Software+++Engineer+Intern;Tata++Motors+Group;Jamshedpur++Jharkhand;Final++Year+Student;BIT+Mesra+Ranchi" alt="AIchemist" width="100%">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Walter+Turncoat&color=%230366DE&size=25&duration=4000&center=true&vCenter=true&width=550&lines=Software+++Engineer+Intern;Tata++Motors+Group;Jamshedpur++Jharkhand;Final++Year+Student;BIT+Mesra+Ranchi" alt="Shivam" width="100%">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shivammavihs1/shivammavihs1/output/github-contribution-grid-snake.svg" alt="snake"></center>
