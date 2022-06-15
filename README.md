@@ -87,6 +87,23 @@ me.say_hi()
 ![](https://img.shields.io/badge/status-single-blue)
 -->
 
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Walter+Turncoat&color=%230366DE&size=25&duration=4000&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+With+Below+Certificates;Senior+MERN+Stack+Developer;Senior+Web3+Engineer;Senior+Smart+Contract+Developer;Senior+Frontend+Engineer" alt="Alchemist" width="100%">
+
+
+<h1 width="100%" align="center"></h1>
+
+<div align="center" width="100%">
+  <img align="center" src="./github-metrics.svg" alt="shivammavihs1" width="100%">
+</div>
+
+## Contact me
+
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivammavihs6@gmail.com)
+<!--[![image](https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/zqVb0AjH4liM) -->
+[![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shivamkumar0611)
+[![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/shivammavihs#8648)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivammavihs)
+
 - Thanks for visiting my GitHub profile, it's great pleasure to meet you here! 😊 💌 
 
 <h1 align="center">Made with ♥ in <img src="https://media2.giphy.com/media/9Gnbm29r7ftUA/200.gif" width="100" alt="Indian Flag"></h1>
